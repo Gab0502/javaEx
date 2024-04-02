@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Cesar teste = new Cesar();
         teste.criptografa("teste");
+        teste.descriptografa("qbpqb");
     /*Scanner input = new Scanner(System.in);
     int opcao;
     System.out.printf("Deseja utilizar qual tipo de criptografia? 1-Cesar 2-Morse");
